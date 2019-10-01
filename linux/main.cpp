@@ -1,5 +1,4 @@
 #include "main.hpp"
-#include <wiringPi.h>
 
 volatile int eventCounter = 0;
 volatile int lastEventCounter = 0;
